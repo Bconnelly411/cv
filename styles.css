@@ -1,0 +1,46 @@
+body
+{
+    background-color: #ECF9FF;
+}
+
+hr
+{
+   /* my code 
+   
+   border-top-style: dotted;
+   border-top-color: gray;
+   border-top-width: 5px;
+   border-right-width: 0;
+   border-left-width: 0;
+   border-bottom-width: 0;
+   width: 5%; */
+
+   /* Angela's versions: version 1
+    
+    border-style: dotted none none;
+    height: 0px; 
+    width: 30%;
+
+    /* Version 2: Class finished version */
+    
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+
+}
+h1
+{
+color: #66bfbf;
+}
+
+h3
+{
+color: #66bfbf;
+}
+
+
+
+
